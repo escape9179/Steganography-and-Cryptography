@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Steganography and Cryptography/task/build/
+/Steganography and Cryptography/task/out/
+/Steganography and Cryptography/task/out/production/classes/
+/Steganography and Cryptography/task/out/test/classes/
+/Topics/Image libraries/Drawing four circles/out/
+/Topics/Image libraries/Drawing four circles/out/production/classes/
+/Topics/Jumps and returns/Beyond the word/out/
+/Topics/Jumps and returns/Beyond the word/out/production/classes/
